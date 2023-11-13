@@ -6,6 +6,10 @@
 	background: #CCCCCC;
 	padding: 30px;
 }
+img {
+  margin: auto;
+  display: block;
+}
 
 .titulo-principal {
 	padding-left: 20px;
